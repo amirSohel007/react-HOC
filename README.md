@@ -1,9 +1,10 @@
 ## React High Order Component
 
-// Clone the project 
-// Run npm install
+Follow the stpes :
 
-// Open http://localhost:3000
+    Clone the project 
+    Run npm install
+    Open http://localhost:3000
 
 
 ## Non HOD Folder contain
