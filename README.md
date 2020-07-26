@@ -20,7 +20,7 @@ Follow the stpes :
     ClickCounter.js
     HODComponent.js
     
-<img width="300px" src="https://i.ibb.co/txtRWXH/Screenshot-2020-07-26-at-12-56-31-AM.png"/>
+<img width="500px" src="https://i.ibb.co/PrSz499/Screenshot-2020-07-26-at-9-54-36-AM.png"/>
 
 
 
