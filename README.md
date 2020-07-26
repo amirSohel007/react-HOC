@@ -18,13 +18,13 @@ Follow the stpes :
 ## HOD Folder contain
     HoverCounter.js
     ClickCounter.js
-    HODComponent.js
+    HOCComponent.js
     
 <img src="https://i.ibb.co/PrSz499/Screenshot-2020-07-26-at-9-54-36-AM.png"/>
 
 
 
-both example are running in seprate folder. First understand NON High order Components, then jump into HOD Folder to understand the same thing with diffrent way.
+both example are running in seprate folder. First understand NON High order Components, then jump into HOC Folder to understand the same thing with diffrent way.
 
 
 
