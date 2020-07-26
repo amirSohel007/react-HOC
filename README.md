@@ -11,11 +11,11 @@ Follow the stpes :
     Open http://localhost:3000
 
 
-## Non HOD Folder contain
+## Non HOC Folder contain
     HoverCounter.js
     ClickCounter.js
 
-## HOD Folder contain
+## HOC Folder contain
     HoverCounter.js
     ClickCounter.js
     HOCComponent.js
