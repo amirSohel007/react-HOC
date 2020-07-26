@@ -1,5 +1,5 @@
 import React from 'react';
-import counterComponent from './HODComponent'
+import counterComponent from './HOCComponent'
 
 class HODHoverCounter extends React.Component {
     render() {

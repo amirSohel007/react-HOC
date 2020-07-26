@@ -1,8 +1,8 @@
 import React from "react";
-import HoverCounter from "./components/NonHOD/HoverCounter";
-import ClickCounter from "./components/NonHOD/ClickCounter";
-import HODClickCounter from "./components/HOD/ClickCounter";
-import HODHoverCounter from "./components/HOD/HoverCounter";
+import HoverCounter from "./components/NonHOC/HoverCounter";
+import ClickCounter from "./components/NonHOC/ClickCounter";
+import HOCClickCounter from "./components/HOC/ClickCounter";
+import HOCHoverCounter from "./components/HOC/HoverCounter";
 import "./App.css";
 
 function App() {
@@ -10,15 +10,15 @@ function App() {
     <div className="App">
       <div className="main">
         <div className="box">
-            <h2>Without HOD Example</h2>
+            <h2>Without HOC Example</h2>
             <ClickCounter />
             <HoverCounter />
         </div>
 
         <div className="box">
-          <h2>With HOD Example</h2>
-          <HODClickCounter />
-          <HODHoverCounter />
+          <h2>With HOC Example</h2>
+          <HOCClickCounter />
+          <HOCHoverCounter />
         </div>
       </div>
     </div>
